@@ -1,7 +1,7 @@
 # AI Roblox Studio
 
 Purpose:
-Build Roblox games using specialized AI agents.
+Build Roblox games using specialized AI agents. Simulating Program/Project Management with AI
 
 Pipeline:
 
